@@ -1,0 +1,115 @@
+/* calendar */
+table.calendar
+{
+	border-left:1px solid #2F4159;
+	border-collapse: collapse;
+}
+
+tr.calendar-row
+{
+	
+}
+
+td.calendar-day,
+td.calendar-day-today
+{
+	background: transparent;
+	height:80px;
+	font-size:11px;
+	/*position: relative;*/
+}
+
+td.calendar-day-today
+{
+	background: #D3E1E8;
+}
+
+* html div.calendar-day
+{
+	height:80px;
+}
+
+/*
+td.calendar-day:hover
+{
+	background:#ffe0cc;
+}
+*/
+
+td.calendar-day-np
+{
+	background:#ccc;
+	min-height:80px;
+	padding: 0px;
+}
+
+* html div.calendar-day-np
+{
+	height:80px;
+}
+
+td.calendar-day-head
+{
+	color: #2F4159;
+	background:#9CB6CF;
+	font-weight:bold;
+	text-align:center;
+	width:104px;
+	padding:5px;
+	border-bottom:1px solid #2F4159;
+	border-top:1px solid #2F4159;
+	border-right:1px solid #2F4159;
+}
+
+div.day-number
+{
+	background:#2F4159;
+	padding:5px;
+	color:#fff;
+	font-weight:bold;
+	float:right;
+	margin:-5px -5px 0 0;
+	width:20px;
+	text-align:center;
+	clear: both;
+}
+
+div.day-number a
+{
+	color: #fff;
+	display: block;
+}
+
+div.day-text
+{
+	margin-top: 22px;
+}
+
+div.day-text ul
+{
+	padding: 0px;
+}
+
+div.day-text li
+{
+	list-style-type: none;
+	background: url('/images/calevent-background.png') repeat-x #E1E1E1;
+	border: 1px #CCC solid;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	padding: 1px;
+	margin-bottom: 2px;
+}
+
+/* shared */
+td.calendar-day,
+td.calendar-day-today,
+td.calendar-day-np
+{
+	width:104px;
+	padding:5px;
+	border-bottom:1px solid #2F4159;
+	border-right:1px solid #2F4159;
+	vertical-align: top;
+}

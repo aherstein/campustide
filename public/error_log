@@ -1,0 +1,88 @@
+[23-Feb-2014 11:02:25 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:02:25 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:02:32 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:02:32 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:02:37 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:02:37 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:18 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:18 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:37 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:37 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:56 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:06:56 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:08:30 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:08:30 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 7
+[23-Feb-2014 11:11:37 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 13
+[23-Feb-2014 11:11:37 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 13
+[23-Feb-2014 11:11:38 America/New_York] PHP Warning:  require_once(/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/adamhers/public_html/campustide/include/setup.php on line 13
+[23-Feb-2014 11:11:38 America/New_York] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/adamhers/www/campustide/Smarty-3.1.7/Smarty.class.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adamhers/public_html/campustide/include/setup.php on line 13
+[23-Feb-2014 10:13:09 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:14:27 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:17:12 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:17:13 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:17:15 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:18:59 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:21:02 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:21:39 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[23-Feb-2014 10:22:29 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  permission denied for sequence school_views_view_id_seq' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('Northern Illino...', Array, '02', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
+[11-Apr-2014 08:02:08 America/Chicago] PHP Fatal error:  Uncaught exception 'SQLException' with message 'ERROR:  null value in column "school_id" violates not-null constraint' in /home/adamhers/public_html/campustide/lib/Database.php:52
+Stack trace:
+#0 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(170): Database->query('INSERT INTO sch...', Array)
+#1 /home/adamhers/public_html/campustide/lib/SchoolCalendar.php(23): SchoolCalendar->updateSchoolViews()
+#2 /home/adamhers/public_html/campustide/public/search.php(53): SchoolCalendar->SchoolCalendar('university of i...', Array, '04', '2014')
+#3 {main}
+  thrown in /home/adamhers/public_html/campustide/lib/Database.php on line 52
